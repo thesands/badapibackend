@@ -19,6 +19,7 @@
           </e>
         </e>
         <e p="Program.cs" t="Include" />
+        <e p="README.md" t="Include" />
         <e p="Startup.cs" t="Include" />
         <e p="Tweet.cs" t="Include" />
         <e p="Tweets.cs" t="Include" />

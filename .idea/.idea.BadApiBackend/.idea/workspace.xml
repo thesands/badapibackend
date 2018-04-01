@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99151a60-69ac-4450-b188-9eb42d8110c3" name="Default" comment="" />
+    <list default="true" id="99151a60-69ac-4450-b188-9eb42d8110c3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BadApiBackend/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BadApiBackend/bin/Debug/netcoreapp2.0/BadApiBackend.dll" afterPath="$PROJECT_DIR$/BadApiBackend/bin/Debug/netcoreapp2.0/BadApiBackend.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BadApiBackend/bin/Debug/netcoreapp2.0/BadApiBackend.pdb" afterPath="$PROJECT_DIR$/BadApiBackend/bin/Debug/netcoreapp2.0/BadApiBackend.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BadApiBackend/obj/Debug/netcoreapp2.0/BadApiBackend.dll" afterPath="$PROJECT_DIR$/BadApiBackend/obj/Debug/netcoreapp2.0/BadApiBackend.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BadApiBackend/obj/Debug/netcoreapp2.0/BadApiBackend.pdb" afterPath="$PROJECT_DIR$/BadApiBackend/obj/Debug/netcoreapp2.0/BadApiBackend.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.BadApiBackend/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.BadApiBackend/.idea/contentModel.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.BadApiBackend/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.BadApiBackend/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BadApiBackend/Program.cs" afterPath="$PROJECT_DIR$/BadApiBackend/Program.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BadApiBackend/Tweet.cs" afterPath="$PROJECT_DIR$/BadApiBackend/Tweet.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BadApiBackend/Tweets.cs" afterPath="$PROJECT_DIR$/BadApiBackend/Tweets.cs" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,35 +40,45 @@
       <file leaf-file-name="Tweet.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BadApiBackend/Tweet.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            <state relative-caret-position="60">
+              <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
               <folding>
-                <marker date="1522544923000" expanded="true" signature="23:655" ph="{...}" />
-                <marker date="1522544923000" expanded="true" signature="48:653" ph="{...}" />
-                <marker date="1522544923000" expanded="true" signature="391:499" ph="{...}" />
-                <marker date="1522544923000" expanded="true" signature="542:647" ph="{...}" />
+                <marker date="1522563007000" expanded="true" signature="38:670" ph="{...}" />
+                <marker date="1522563007000" expanded="true" signature="63:668" ph="{...}" />
+                <marker date="1522563007000" expanded="true" signature="406:514" ph="{...}" />
+                <marker date="1522563007000" expanded="true" signature="557:662" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BadApiBackend/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="710">
-              <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+            <state relative-caret-position="328">
+              <caret line="75" column="51" lean-forward="false" selection-start-line="75" selection-start-column="51" selection-end-line="75" selection-end-column="51" />
               <folding>
-                <marker date="1522552218000" expanded="true" signature="6:301" ph="..." />
-                <marker date="1522552218000" expanded="true" signature="326:3000" ph="{...}" />
-                <marker date="1522552218000" expanded="true" signature="353:2998" ph="{...}" />
-                <marker date="1522552218000" expanded="true" signature="406:489" ph="{...}" />
-                <marker date="1522552218000" expanded="true" signature="748:1128" ph="{...}" />
-                <marker date="1522552218000" expanded="true" signature="1205:1836" ph="{...}" />
-                <marker date="1522552218000" expanded="true" signature="1546:1798" ph="/* var duration = (endDate.Ticks - startDate.Ticks) / 2; ... */" />
-                <marker date="1522552218000" expanded="true" signature="1884:2992" ph="{...}" />
-                <marker date="1522552218000" expanded="true" signature="2131:2970" ph="{...}" />
-                <marker date="1522552218000" expanded="true" signature="2274:2859" ph="{...}" />
+                <marker date="1522564831000" expanded="true" signature="6:343" ph="..." />
+                <marker date="1522564831000" expanded="true" signature="368:2994" ph="{...}" />
+                <marker date="1522564831000" expanded="true" signature="395:2992" ph="{...}" />
+                <marker date="1522564831000" expanded="true" signature="448:531" ph="{...}" />
+                <marker date="1522564831000" expanded="true" signature="790:1397" ph="{...}" />
+                <marker date="1522564831000" expanded="true" signature="1476:2736" ph="{...}" />
+                <marker date="1522564831000" expanded="true" signature="1784:2039" ph="{...}" />
+                <marker date="1522564831000" expanded="true" signature="2056:2726" ph="{...}" />
+                <marker date="1522564831000" expanded="true" signature="2127:2712" ph="{...}" />
+                <marker date="1522564831000" expanded="true" signature="2784:2986" ph="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BadApiBackend/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -65,21 +86,24 @@
       <file leaf-file-name="Tweets.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BadApiBackend/Tweets.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+            <state relative-caret-position="405">
+              <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
               <folding>
-                <marker date="1522551010000" expanded="true" signature="6:52" ph="..." />
-                <marker date="1522551010000" expanded="true" signature="77:508" ph="{...}" />
-                <marker date="1522551010000" expanded="true" signature="110:506" ph="{...}" />
-                <marker date="1522551010000" expanded="true" signature="200:276" ph="{...}" />
-                <marker date="1522551010000" expanded="true" signature="322:380" ph="{...}" />
-                <marker date="1522551010000" expanded="true" signature="435:500" ph="{...}" />
+                <marker date="1522563065000" expanded="true" signature="6:66" ph="..." />
+                <marker date="1522563065000" expanded="true" signature="91:640" ph="{...}" />
+                <marker date="1522563065000" expanded="true" signature="124:638" ph="{...}" />
+                <marker date="1522563065000" expanded="true" signature="214:290" ph="{...}" />
+                <marker date="1522563065000" expanded="true" signature="336:394" ph="{...}" />
+                <marker date="1522563065000" expanded="true" signature="449:632" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/BadApiBackend/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -93,13 +117,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BadApiBackend/Tweet.cs" />
         <option value="$PROJECT_DIR$/BadApiBackend/Controllers/ValuesController.cs" />
         <option value="$PROJECT_DIR$/BadApiBackend/Startup.cs" />
         <option value="$PROJECT_DIR$/BadApiBackend/EndDate.cs" />
         <option value="$PROJECT_DIR$/BadApiBackend/StartDate.cs" />
+        <option value="$PROJECT_DIR$/BadApiBackend/Tweet.cs" />
         <option value="$PROJECT_DIR$/BadApiBackend/Tweets.cs" />
         <option value="$PROJECT_DIR$/BadApiBackend/Program.cs" />
+        <option value="$PROJECT_DIR$/BadApiBackend/README.md" />
       </list>
     </option>
   </component>
@@ -115,6 +140,7 @@
     <option name="width" value="978" />
     <option name="height" value="836" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <flattenPackages />
@@ -204,12 +230,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522542484699</updated>
-      <workItem from="1522542486045" duration="9713000" />
+      <workItem from="1522542486045" duration="18172000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9713000" />
+    <option name="totallyTimeSpent" value="18172000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -228,15 +254,15 @@
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42146596" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32198954" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17923875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30890054" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -321,28 +347,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BadApiBackend/Tweets.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        <state relative-caret-position="405">
+          <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
           <folding>
-            <marker date="1522551010000" expanded="true" signature="6:52" ph="..." />
-            <marker date="1522551010000" expanded="true" signature="77:508" ph="{...}" />
-            <marker date="1522551010000" expanded="true" signature="110:506" ph="{...}" />
-            <marker date="1522551010000" expanded="true" signature="200:276" ph="{...}" />
-            <marker date="1522551010000" expanded="true" signature="322:380" ph="{...}" />
-            <marker date="1522551010000" expanded="true" signature="435:500" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BadApiBackend/Tweet.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-          <folding>
-            <marker date="1522544923000" expanded="true" signature="23:655" ph="{...}" />
-            <marker date="1522544923000" expanded="true" signature="48:653" ph="{...}" />
-            <marker date="1522544923000" expanded="true" signature="391:499" ph="{...}" />
-            <marker date="1522544923000" expanded="true" signature="542:647" ph="{...}" />
+            <marker date="1522563065000" expanded="true" signature="6:66" ph="..." />
+            <marker date="1522563065000" expanded="true" signature="91:640" ph="{...}" />
+            <marker date="1522563065000" expanded="true" signature="124:638" ph="{...}" />
+            <marker date="1522563065000" expanded="true" signature="214:290" ph="{...}" />
+            <marker date="1522563065000" expanded="true" signature="336:394" ph="{...}" />
+            <marker date="1522563065000" expanded="true" signature="449:632" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -360,22 +373,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BadApiBackend/Tweet.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <marker date="1522563007000" expanded="true" signature="38:670" ph="{...}" />
+            <marker date="1522563007000" expanded="true" signature="63:668" ph="{...}" />
+            <marker date="1522563007000" expanded="true" signature="406:514" ph="{...}" />
+            <marker date="1522563007000" expanded="true" signature="557:662" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BadApiBackend/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="710">
-          <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+        <state relative-caret-position="328">
+          <caret line="75" column="51" lean-forward="false" selection-start-line="75" selection-start-column="51" selection-end-line="75" selection-end-column="51" />
           <folding>
-            <marker date="1522552218000" expanded="true" signature="6:301" ph="..." />
-            <marker date="1522552218000" expanded="true" signature="326:3000" ph="{...}" />
-            <marker date="1522552218000" expanded="true" signature="353:2998" ph="{...}" />
-            <marker date="1522552218000" expanded="true" signature="406:489" ph="{...}" />
-            <marker date="1522552218000" expanded="true" signature="748:1128" ph="{...}" />
-            <marker date="1522552218000" expanded="true" signature="1205:1836" ph="{...}" />
-            <marker date="1522552218000" expanded="true" signature="1546:1798" ph="/* var duration = (endDate.Ticks - startDate.Ticks) / 2; ... */" />
-            <marker date="1522552218000" expanded="true" signature="1884:2992" ph="{...}" />
-            <marker date="1522552218000" expanded="true" signature="2131:2970" ph="{...}" />
-            <marker date="1522552218000" expanded="true" signature="2274:2859" ph="{...}" />
+            <marker date="1522564831000" expanded="true" signature="6:343" ph="..." />
+            <marker date="1522564831000" expanded="true" signature="368:2994" ph="{...}" />
+            <marker date="1522564831000" expanded="true" signature="395:2992" ph="{...}" />
+            <marker date="1522564831000" expanded="true" signature="448:531" ph="{...}" />
+            <marker date="1522564831000" expanded="true" signature="790:1397" ph="{...}" />
+            <marker date="1522564831000" expanded="true" signature="1476:2736" ph="{...}" />
+            <marker date="1522564831000" expanded="true" signature="1784:2039" ph="{...}" />
+            <marker date="1522564831000" expanded="true" signature="2056:2726" ph="{...}" />
+            <marker date="1522564831000" expanded="true" signature="2127:2712" ph="{...}" />
+            <marker date="1522564831000" expanded="true" signature="2784:2986" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BadApiBackend/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <folding />
         </state>
       </provider>
     </entry>

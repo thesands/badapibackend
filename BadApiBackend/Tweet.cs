@@ -1,4 +1,6 @@
-﻿namespace BadApiBackend
+﻿using System;
+
+namespace BadApiBackend
 {
     public class Tweet
     {

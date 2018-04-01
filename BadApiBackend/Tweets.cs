@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace BadApiBackend
@@ -19,7 +20,9 @@ namespace BadApiBackend
 
         public static List<Tweet> RetrieveAllTweets()
         {
-            return tweetMap.Values.ToList();
+            List<Tweet> tweetList = tweetMap.Values.ToList();
+            tweetList.OrderByDescending(x => DateTime.Parse(x.Stamp));
+            return tweetList;
         }
     }
 }
