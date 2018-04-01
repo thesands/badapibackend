@@ -1,0 +1,11 @@
+/Users/danasanders/Repos/BadApiBackend/BadApiBackend/bin/Debug/netcoreapp2.0/BadApiBackend.deps.json
+/Users/danasanders/Repos/BadApiBackend/BadApiBackend/bin/Debug/netcoreapp2.0/BadApiBackend.runtimeconfig.json
+/Users/danasanders/Repos/BadApiBackend/BadApiBackend/bin/Debug/netcoreapp2.0/BadApiBackend.runtimeconfig.dev.json
+/Users/danasanders/Repos/BadApiBackend/BadApiBackend/bin/Debug/netcoreapp2.0/BadApiBackend.dll
+/Users/danasanders/Repos/BadApiBackend/BadApiBackend/bin/Debug/netcoreapp2.0/BadApiBackend.pdb
+/Users/danasanders/Repos/BadApiBackend/BadApiBackend/obj/Debug/netcoreapp2.0/BadApiBackend.csprojResolveAssemblyReference.cache
+/Users/danasanders/Repos/BadApiBackend/BadApiBackend/obj/Debug/netcoreapp2.0/BadApiBackend.csproj.CoreCompileInputs.cache
+/Users/danasanders/Repos/BadApiBackend/BadApiBackend/obj/Debug/netcoreapp2.0/BadApiBackend.AssemblyInfoInputs.cache
+/Users/danasanders/Repos/BadApiBackend/BadApiBackend/obj/Debug/netcoreapp2.0/BadApiBackend.AssemblyInfo.cs
+/Users/danasanders/Repos/BadApiBackend/BadApiBackend/obj/Debug/netcoreapp2.0/BadApiBackend.dll
+/Users/danasanders/Repos/BadApiBackend/BadApiBackend/obj/Debug/netcoreapp2.0/BadApiBackend.pdb
